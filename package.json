@@ -1,0 +1,19 @@
+{
+  "name": "darty-js",
+  "version": "1.0.0",
+  "description": "第三方库",
+  "main": "darty-js",
+  "scripts": {
+    "test": "darty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heegspace/darty-js.git"
+  },
+  "author": "heegspace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heegspace/darty-js/issues"
+  },
+  "homepage": "https://github.com/heegspace/darty-js#readme"
+}
